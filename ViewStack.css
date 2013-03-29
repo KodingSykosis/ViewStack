@@ -1,0 +1,20 @@
+.ui-stack {
+	position: relative;
+}
+
+.ui-stack-inner {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+
+
+.ui-stack-view {
+	position: absolute;
+	width: 100%;
+	box-sizing: border-box;
+	height: 100%;
+	overflow: hidden;
+}
